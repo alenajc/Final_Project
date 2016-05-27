@@ -1,0 +1,56 @@
+body
+	{background-color: grey;
+	font-font-family: arial;
+	width: 850px;
+	margin: auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+nav{
+	padding:16px;
+	text-align: center;
+}
+nav a{
+	text-indent: 1234px;
+	display: inline-block;
+	width: 64px;
+	height: 64px;
+	margin: 0 8px;
+	}
+
+#home{
+	background-color:grey;
+}
+#info{
+	background-color:grey;
+}
+#photo{
+	background-color:white;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	font-font-family: arial;
+	padding: 50px;
+	text-shadow: 2px 2px black;
+}
+h2{
+	
+}
+p{
+	line-height: 25px;
+	font-size: 18px;
+}
+a{
+	 text-decoration: none;
+	
+}
+
+.photos{ 
+margin-bottom: 50px;
+position: relative;
+float: left;
+width: 100%;
+min-height: 700px;
+}
